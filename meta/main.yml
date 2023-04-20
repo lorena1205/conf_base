@@ -17,6 +17,6 @@
       - users
       - packages
       - hosts
-   dependencies: []
+   dependencies:[]
 
 
