@@ -1,22 +1,22 @@
 ---
- galaxy_info:
-   role_name: conf_base
-   author: lorena1205
-   description: Configuracao Base de usuarios, pacotes e hosts
-   company: T-systems
-   license: GPLv3
-   min_ansible_version: 2.9
-   platforms:
-      - name: Ubuntu
-        versions:
-          - focal
-      - name: EL
-        versions:
-           - 8
-   galaxy_tags:
-      - users
-      - packages
-      - hosts
-   dependencies:[]
+galaxy_info:
+  tole_name: conf_base
+  author: lorena1205
+  description: Configuracao Base de usuarios, pacotes e hosts
+  company: T-SYSTEMS
+  license: GPLv3
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+    - name: EL
+      versions:
+        - 8
+  galaxy_tags:
+    - users
+    - packages
+    - hosts
+dependencies: []
 
 
